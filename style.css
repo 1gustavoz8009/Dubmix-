@@ -29,6 +29,6 @@ p{
     font-family:"Fontetitulo";
     src:url(Gorditas-Bold.ttf) format("truetype");
 }
-.titulo{
+h1{
     font-family:"Fontetitulo" ;
 }
