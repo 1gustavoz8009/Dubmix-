@@ -8,3 +8,8 @@ h3{
 body{
     background-color:lavender;
 }
+img{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    }
