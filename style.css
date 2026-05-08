@@ -25,3 +25,10 @@ p{
     margin: auto;
     display: block;
 }
+@font-face{
+    font-family:"Fontetitulo";
+    src:url(Gorditas-Bold.ttf) format("truetype");
+}
+.titulo{
+    font-family:"Fontetitulo" ;
+}
