@@ -1,6 +1,6 @@
 @charset "UTF-8";
 h1{
-    text-align: center;
+    text-align: center; color: blueviolet;
 }
 h3{
     text-align: center;
@@ -11,5 +11,5 @@ body{
 img{
     width: 150px;
     height: 150px;
-    object-fit: cover;
+    margin: auto;
     }
