@@ -1,6 +1,7 @@
 @charset "UTF-8";
 h1{
     text-align: center; color: blueviolet;
+    font-family: fontetitulo;
 }
 h3{
     text-align: center;
@@ -26,9 +27,6 @@ p{
     display: block;
 }
 @font-face{
-    font-family:"Fontetitulo";
+    font-family:"fontetitulo";
     src:url(Gorditas-Bold.ttf) format("truetype");
-}
-h1{
-    font-family:"Fontetitulo" ;
 }
