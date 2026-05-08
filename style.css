@@ -16,5 +16,10 @@ img{
     }
 a{
     background-color: blueviolet;
+    display: block;
+    margin: auto;
+    }
+p{
     text-align: center;
     }
+
