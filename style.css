@@ -8,7 +8,7 @@ h3{
 body{
     background-color:lavender;
 }
-img{
+.retagulo{
     width: 266px;
     height: 150px;
     margin: auto;
@@ -20,5 +20,8 @@ p{
     }
 
 .quadrado{
-    width: 150px;
+   width: 150px;
+    height: 150px;
+    margin: auto;
+    display: block;
 }
